@@ -1,3 +1,5 @@
-# synvert-issues
+# synvert
 
-This is where to report any issue related to synvert.
+[website](https://synvert.net)
+
+[playground](https://playground.synvert.net)
