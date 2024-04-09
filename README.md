@@ -12,15 +12,14 @@
 
 ## Ruby repos
 
-- [synvert-ruby](https://github.com/xinminlabs/synvert-ruby) - Ruby CLI
-- [synvert-core-ruby](https://github.com/xinminlabs/synvert-core-ruby) - Ruby DSLs
-- [node-query-ruby](https://github.com/xinminlabs/node-query-ruby) - Query based on AST nodes
-- [node-mutation-ruby](https://github.com/xinminlabs/node-mutation-ruby) - Mutate based on AST nodes
-- [parser_node_ext](https://github.com/xinminlabs/parser_node_ext) - parser node extension
+- [synvert-ruby](https://github.com/synvert-hq/synvert-ruby) - Ruby CLI
+- [synvert-core-ruby](https://github.com/synvert-hq/synvert-core-ruby) - Ruby DSLs
+- [node-query-ruby](https://github.com/synvert-hq/node-query-ruby) - Query based on AST nodes
+- [node-mutation-ruby](https://github.com/synvert-hq/node-mutation-ruby) - Mutate based on AST nodes
 
 ## Javascript repos
 
-- [synvert-javascript](https://github.com/xinminlabs/synvert-javascript) - Javascript CLI
-- [synvert-core-javascript](https://github.com/xinminlabs/synvert-core-javascript) - Javascritp DSLs
-- [node-query-javascript](https://github.com/xinminlabs/node-query-javascript) - Query based on AST nodes
-- [node-mutation-javascript](https://github.com/xinminlabs/node-mutation-javascript) - Mutate based on AST nodes
+- [synvert-javascript](https://github.com/synvert-hq/synvert-javascript) - Javascript CLI
+- [synvert-core-javascript](https://github.com/synvert-hq/synvert-core-javascript) - Javascritp DSLs
+- [node-query-javascript](https://github.com/synvert-hq/node-query-javascript) - Query based on AST nodes
+- [node-mutation-javascript](https://github.com/synvert-hq/node-mutation-javascript) - Mutate based on AST nodes
