@@ -6,9 +6,9 @@
 
 [VSCode extension](https://marketplace.visualstudio.com/items?itemName=xinminlabs.synvert)
 
-[MacOS App](https://download-synvert.xinminlabs.com/download/latest/osx)
+[MacOS App](https://github.com/synvert-hq/synvert-gui/releases/download/v1.11.0/Synvert-darwin-x64-1.11.0.zip)
 
-[Windows App](https://download-synvert.xinminlabs.com/download/latest/windows_64)
+[Windows App](https://github.com/synvert-hq/synvert-gui/releases/download/v1.11.0/Synvert-1.11.0.Setup.exe)
 
 ## Ruby repos
 
